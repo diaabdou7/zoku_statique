@@ -1,0 +1,148 @@
+.entete
+{
+	background-color: orange;
+	width :1200px;
+	height: 60px ;
+	margin: 45px ;
+
+
+}
+.contour
+{
+	border: 2px solid orange;
+	padding: 10px 10px;
+	
+}
+.entete_connexion
+{
+	margin-left: 10px;
+	background-color: orange;
+	color:white;
+	text-align: center;
+
+}
+
+.cocher
+{
+	margin-left: 40px;
+}
+
+.bas_1
+{
+	text-align: center;
+	color:white;
+
+}
+
+.bouton1
+{
+	margin-left: 170px;
+}
+
+.entete_ligne
+{
+	text-align: center;
+	margin-top: 50px;
+	color:orange;
+}
+.bouton2
+{
+	margin-top: 25px;
+	margin-left: 25px;
+}
+.bouton3
+{
+	margin-top: 15px;
+	margin-left: 250px;
+	padding:20px;
+}
+
+
+
+
+
+
+.image1
+{
+	 margin-left: 500px;
+    margin-right:  200px;
+
+}
+.entete_connexion2
+{
+	
+	 margin-left: 200px;
+    margin-right:  200px;
+	background-color: orange;
+	color:white;
+	text-align: center;
+
+}
+
+.entete1
+{
+	background-color: orange;
+	width :1200px;
+	height:45px ;
+	
+
+
+}
+
+.param_center
+{
+	text-align: center;
+}
+
+.trait_noir
+{
+	width:200px;
+	height:3px;
+	background-color:black;
+}
+
+.position_image
+{
+	position: absolute;
+	left: 0;
+}
+
+
+.h3_administrateur
+{
+	background-color: orange;
+	color:white;
+}
+
+.partie2{
+	margin-top: 25px;
+}
+.contour2{
+	 margin-left: 200px;
+    margin-right:  200px;
+    border: 2px solid orange;
+	padding: 10px 10px;
+
+}
+h2
+{
+	position:relative;
+	float:left;
+	padding:20px;
+	background-color: orange;
+	margin-bottom: 50px;
+	color:white;
+}
+
+.trait_inverse
+{
+	width:40px;
+	height:auto;
+	background-color: black;
+}
+
+.entete_1
+{
+	margin-top: 20px;
+	padding-top: 45px
+}
